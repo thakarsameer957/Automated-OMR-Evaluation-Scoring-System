@@ -1,0 +1,10 @@
+{
+    "total": 22,
+    "per_subject": {
+        "Python": 3,
+        "Data Analysis": 4,
+        "MySQL": 5,
+        "Power BI": 5,
+        "Advanced Stats": 5
+    }
+}

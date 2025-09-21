@@ -1,0 +1,4 @@
+*.pyc
+__pycache__/
+overlay_result.jpg
+tmp_uploaded.jpg
